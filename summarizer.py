@@ -3,6 +3,7 @@ from PyPDF2 import PdfReader
 import google.generativeai as genai
 import os
 from dotenv import load_dotenv
+# $ pip install google-generativeai
 
 
 # Retrieve the API key from an environment variable
